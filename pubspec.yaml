@@ -28,12 +28,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  splitwise_api: ^2.0.3
-  oauth1: ^2.0.0
-  shared_preferences: ^2.0.15
   upi_payment_qrcode_generator: ^1.1.1
-  # upi_pay: ^1.0.1
   upi_india: ^3.0.1
+  http: ^0.13.5
 
 dev_dependencies:
   flutter_test:
